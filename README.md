@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Henrique
 
-- 🌱 Estudando tecnologias do Dev Web
+- 🌱 Desenvolvedor Web
 - 📫 E-mail:guilhermesilva50239@gmail.com
 <div align="center">
   <a href="https://github.com/GuilhermeHenrii">
